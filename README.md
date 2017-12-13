@@ -18,6 +18,5 @@ N (Node)
 
 Working version: https://catscidm.herokuapp.com/
 
-Russian Blue Cat
 ![alt text](https://metrouk2.files.wordpress.com/2017/06/57148496.jpg?w=748&h=497&crop=1 "Russian Blue")
 
