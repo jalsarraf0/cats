@@ -1,4 +1,4 @@
-# Angular MEAN (GRR) Stack [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
+# MEAN (GRR) Stack [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 
 This application can be used to keep track of cats and users. By using the MEAN stack you can see who has registered, what cats are logged into the system and add more cats. 
 Basically if you love cats you will love this.
